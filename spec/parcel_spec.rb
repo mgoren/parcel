@@ -14,7 +14,5 @@ describe(Parcel) do
       expect(test_parcel.cost_to_ship()).to(eq(20))
     end
 
-
-
   end
 end

@@ -1,0 +1,36 @@
+body {
+  background-color: #8E79AD;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.container {
+  background-color: #FEE9AA;
+  width: 330px;
+  height: 40%;
+  margin: 150px auto 0 auto;
+  padding: 15px;
+}
+
+.form-label {
+  float: left;
+  width: 160px
+}
+
+.form-control {
+  width: 140px;
+}
+
+.button {
+  margin-left: 100px;
+}
+
+.results {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
